@@ -32,5 +32,5 @@ Add comments explaining:
 
 
 #Submission
-Package your working application (including benchmark tests) as a zip file.
-Email it to: aaron@inugrp.com
+-  Package your working application (including benchmark tests) as a zip file.
+- Email it to: aaron@inugrp.com
