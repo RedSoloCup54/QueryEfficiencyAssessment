@@ -1,6 +1,6 @@
 # Query Efficiency Assessment
 CEO Squad / Inuversal – .NET Query Optimization Challenge
-Time to Complete: 3 days
+Complete by: 3 Dec 12pm
 
 LoadData endpoint: https://data360api.worldbank.org/data360/data?DATABASE_ID=IPC_IPC&INDICATOR=IPC_IPC_P3PLUS&skip=0
 
