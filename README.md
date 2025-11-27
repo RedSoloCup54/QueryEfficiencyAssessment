@@ -12,7 +12,7 @@ Resolve any compilation or runtime issues in the application.
 
 #Optimize Queries
 Improve query execution speed using:
- -LINQ
+ - LINQ
  - Entity Framework (EF)
  -  Raw SQL or any .NET-supported querying technique
 
