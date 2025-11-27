@@ -1,0 +1,15 @@
+C:\Users\aaron\source\repos\QueryEfficiencyAssessment\bin\Debug\net10.0\QueryEfficiencyAssessment.exe
+C:\Users\aaron\source\repos\QueryEfficiencyAssessment\bin\Debug\net10.0\QueryEfficiencyAssessment.deps.json
+C:\Users\aaron\source\repos\QueryEfficiencyAssessment\bin\Debug\net10.0\QueryEfficiencyAssessment.runtimeconfig.json
+C:\Users\aaron\source\repos\QueryEfficiencyAssessment\bin\Debug\net10.0\QueryEfficiencyAssessment.dll
+C:\Users\aaron\source\repos\QueryEfficiencyAssessment\bin\Debug\net10.0\QueryEfficiencyAssessment.pdb
+C:\Users\aaron\source\repos\QueryEfficiencyAssessment\obj\Debug\net10.0\QueryEfficiencyAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\QueryEfficiencyAssessment\obj\Debug\net10.0\QueryEfficiencyAssessment.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\QueryEfficiencyAssessment\obj\Debug\net10.0\QueryEfficiencyAssessment.AssemblyInfo.cs
+C:\Users\aaron\source\repos\QueryEfficiencyAssessment\obj\Debug\net10.0\QueryEfficiencyAssessment.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\QueryEfficiencyAssessment\obj\Debug\net10.0\QueryEfficiencyAssessment.sourcelink.json
+C:\Users\aaron\source\repos\QueryEfficiencyAssessment\obj\Debug\net10.0\QueryEfficiencyAssessment.dll
+C:\Users\aaron\source\repos\QueryEfficiencyAssessment\obj\Debug\net10.0\refint\QueryEfficiencyAssessment.dll
+C:\Users\aaron\source\repos\QueryEfficiencyAssessment\obj\Debug\net10.0\QueryEfficiencyAssessment.pdb
+C:\Users\aaron\source\repos\QueryEfficiencyAssessment\obj\Debug\net10.0\QueryEfficiencyAssessment.genruntimeconfig.cache
+C:\Users\aaron\source\repos\QueryEfficiencyAssessment\obj\Debug\net10.0\ref\QueryEfficiencyAssessment.dll
